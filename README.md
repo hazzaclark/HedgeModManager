@@ -10,6 +10,8 @@
 
 A mod manager for Hedgehog Engine games on PC.
 
+The following is a WIP fork, to showcase the incoporation of a dynamic Mod Browser from within the Mod Manager itself, using the same one-click install functionality as seen on GameBanana
+
 # Table of Contents
 - [Current Supported Games](#current-supported-games)
 - [Installation](#installation)
