@@ -69,4 +69,10 @@ public partial class Sidebar : UserControl
         if (DataContext is MainWindowViewModel viewModel)
             await viewModel.SaveAndRunAsync();
     }
+
+    private async void OnSearchClicked(object? sender, RoutedEventArgs e)
+    {
+        if (DataContext is MainWindowViewModel viewModel)
+            await viewModel.SaveAsync();
+    }
 }
