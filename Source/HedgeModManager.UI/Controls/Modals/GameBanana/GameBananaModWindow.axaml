@@ -1,0 +1,8 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:c="using:HedgeModManager.UI.Controls"
+             xmlns:vm="using:HedgeModManager.UI.ViewModels"
+             xmlns:local="using:HedgeModManager.UI.Controls.Modals.GameBanana"
+             Background="{DynamicResource Common.Background0Brush}"
+             MinWidth="400" MinHeight="200">
+</UserControl>
